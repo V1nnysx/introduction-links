@@ -1,0 +1,32 @@
+/* Utilizar ''#nomedoID'' para poder formatar a ID específica. */
+
+#p01 {
+    color: #41BDF2;
+    border: 2px dotted blueviolet;
+    text-align: center;
+}
+
+#p02 {
+    color: #37F9CA;
+}
+
+.paragrafodiferenciado {
+    color: #F2E635;
+    border: 2px blueviolet dotted;
+}
+
+
+/* Utilizar ''.nomedaclasse'' para padroniza-la. */
+
+.rodape {
+    background-color: rgb(150, 130, 40);
+    color: #abcb75;
+}
+
+#h1 {
+    color: #41BDF2
+}
+
+#a1 {
+    color: #41BDF2;
+}
